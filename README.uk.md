@@ -15,6 +15,15 @@
 - Пропозиція щодо локалізації статей, рекомендацій та серверного контенту
 - Короткі QA-summary без робочих логів
 
+## Перегляд без завантаження
+
+- [Індекс пакета](docs/uk/package-index.md)
+- [Android XML resources](localization/android/res/values-uk/)
+- [Compose resources](localization/composeResources/com.ultrahuman.algo.resources/values-uk/)
+- [CSV target-only exports](formats/csv/)
+- [JSON target-only exports](formats/json/)
+- [QA summary](qa/summary.json)
+
 ## Чого тут немає
 
 - Немає APK-файлів

@@ -15,6 +15,15 @@ This repository is intended to make the contribution public, transparent, easy t
 - Ukrainian and English content-localization proposal for articles/recommendations
 - QA summary proving current resource coverage and automated language checks
 
+## Browse Without Downloading
+
+- [Package Index](docs/en/package-index.md)
+- [Android XML resources](localization/android/res/values-uk/)
+- [Compose resources](localization/composeResources/com.ultrahuman.algo.resources/values-uk/)
+- [CSV target-only exports](formats/csv/)
+- [JSON target-only exports](formats/json/)
+- [QA summary](qa/summary.json)
+
 ## What Is Not Included
 
 - No APK files
