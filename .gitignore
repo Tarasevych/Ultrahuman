@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+*.apk
+*.aab
+*.apks
+*.keystore
+*.jks
+extracted/
+sources/
+work/

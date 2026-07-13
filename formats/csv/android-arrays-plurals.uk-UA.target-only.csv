@@ -1,0 +1,115 @@
+﻿resource_type,name,index_or_quantity,uk_UA
+array,exo_controls_playback_speeds,0,"0,25x"
+array,exo_controls_playback_speeds,1,"0,5x"
+array,exo_controls_playback_speeds,2,"0,75x"
+array,exo_controls_playback_speeds,3,Звичайна
+array,exo_controls_playback_speeds,4,"1,25x"
+array,exo_controls_playback_speeds,5,"1,5x"
+array,exo_controls_playback_speeds,6,2x
+array,heart_health_tips,0,Щодня залишайтеся активними: принаймні 30 хвилин помірного навантаження.
+array,heart_health_tips,1,"Обирайте збалансоване харчування: менше насичених жирів, більше фруктів, овочів і цільнозернових продуктів."
+array,heart_health_tips,2,"Керуйте стресом за допомогою розслаблення: медитації, дихальних вправ або спокійних пауз."
+array,heart_health_tips,3,Відмова від куріння суттєво знижує серцево-судинні ризики.
+array,heart_health_tips,4,Регулярно контролюйте артеріальний тиск і рівень холестерину.
+array,heart_health_tips,5,Підтримуйте здорову вагу завдяки збалансованому харчуванню та регулярній фізичній активності.
+array,heart_health_tips,6,"Обмежуйте доданий цукор і сіль, щоб підтримувати здоров’я серця."
+array,heart_health_tips,7,Надавайте пріоритет якісному сну: 7-9 годин на ніч для загального самопочуття.
+array,heart_health_tips,8,"Додавайте до раціону джерела омега-3, зокрема рибу, для підтримки здоров’я серця."
+array,heart_health_tips,9,Регулярно звертайтеся до свого лікаря для оцінки здоров’я серця та порад.
+array,post_scan_loading_texts,0,Встановлюємо з’єднання зі Skynet…
+array,post_scan_loading_texts,1,Ініціалізуємо людино-машинну мережу…
+array,post_scan_loading_texts,2,Обробляємо дані Cyborg…
+array,post_scan_loading_texts,3,Синхронізуємо мозково-машинний суперкомп’ютер…
+array,post_scan_loading_texts,4,Тренуємо Cyborg AI на 69 420 точках даних…
+array,top_loader_tips,0,Ковток яблучного оцту перед їжею допомагає зменшити піки глюкози
+array,top_loader_tips,1,"Силові тренування можуть зменшити піки після їжі, підвищуючи чутливість до інсуліну"
+array,top_loader_tips,2,"Білки, жири й клітковина перед вуглеводами допомагають зменшити піки після їжі"
+array,top_loader_tips,3,Довгі перельоти можуть спричинити зневоднення й посилити піки після їжі
+array,top_loader_tips,4,"Під час тренування глюкоза може підвищуватися, і це нормальна реакція"
+array,top_loader_tips,5,Кава навіть без цукру може спричинити підвищення глюкози
+array,top_loader_tips,6,"Окремі піки час від часу допустимі, але повторювані піки є проблемою"
+array,top_loader_tips,7,"Після посту починайте з жирів, білків, клітковини й мінімуму вуглеводів, щоб зменшити піки"
+array,top_loader_tips,8,Якісний сон допомагає зменшувати піки глюкози
+array,top_loader_tips,9,"Проблема не у вуглеводах, а в браку активності після їх споживання"
+array,top_loader_tips,10,"Якщо ви постите багато годин, завершуйте піст жирами, білками й клітковиною з мінімумом вуглеводів"
+array,top_loader_tips,11,Пізні прийоми їжі можуть погіршувати якість сну
+array,top_loader_tips,12,Сон і пробудження в один і той самий час щодня допомагають оптимізувати циркадний ритм
+array,top_loader_tips,13,Висока мінливість трендів глюкози пов’язана з оксидативним стресом в організмі
+array,top_loader_tips,14,Стресова подія може підвищити рівень глюкози
+array,top_loader_tips,15,Вдих… Видих…
+array,top_loader_tips,16,"Якщо здоров’я можна виміряти, його можна й покращувати"
+array,top_loader_tips,17,"Алкоголь може не підвищувати глюкозу, але це не означає, що він корисний"
+array,top_loader_tips,18,Прогулянка після їжі добре допомагає зменшити піки глюкози
+array,top_loader_tips,19,Тренування перед їжею може покращити глюкозну відповідь
+array,top_loader_tips,20,Тривалі прогулянки натще допомагають організму використовувати жирові запаси
+array,top_loader_tips,21,"Одна й та сама страва може спричинити подвійний, або біфазний, пік"
+array,top_loader_tips,22,Повільне споживання їжі знижує ймовірність піку глюкози
+array,top_loader_tips,23,У більшості випадків природні цукри підвищують глюкозу подібно до обробленого цукру
+array,top_loader_tips,24,Кава пізно вдень може негативно вплинути на якість сну
+array,top_loader_tips,25,Більшість фруктів підвищують глюкозу. Рішення просте: будьте активні після фруктів.
+array,top_loader_tips,26,Падіння глюкози викликає відчуття голоду. Стабільна глюкоза означає стабільну енергію
+array,top_loader_tips,27,Сонливість і млявість після обіду не є нормою
+array,top_loader_tips,28,Спочатку їжте білки й жири
+array,top_loader_tips,29,Солодке краще залишати на кінець прийому їжі
+array,top_loader_tips,30,Салат або варені овочі перед кожним прийомом їжі — простий спосіб харчуватися здоровіше
+array,top_loader_tips,31,"Їжте білки й жири на сніданок, щоб почати день зі стабільним рівнем енергії"
+array,top_loader_tips,32,Солоний сніданок може покращити глюкозну відповідь
+array,top_loader_tips,33,Ковток яблучного оцту перед їжею допомагає згладити піки глюкози
+array,top_loader_tips,34,"Їжте повільно й усвідомлено, щоб покращити глюкозну відповідь"
+array,top_loader_tips,35,"Одна й та сама їжа може давати вам іншу реакцію, ніж іншим людям"
+array,top_loader_tips,36,"Якщо ви закриваєте потребу в білку й клітковині, ви вже багато робите правильно"
+array,top_loader_tips,37,Уміння готувати може зробити харчування здоровішим і усвідомленішим
+array,top_loader_tips,38,"Дивіться на їжу, поки їсте. Це справді має значення"
+array,top_loader_tips,39,Схуднення зводиться до простого балансу: калорії надходять і калорії витрачаються
+array,top_loader_tips,40,"Найчастіше напади голоду спричинені спрагою, а не справжнім голодом"
+array,top_loader_tips,41,Нагадування: вуглеводи не погані. Погана бездіяльність після вуглеводів
+array,top_loader_tips,42,"Ваша реакція на їжу може покращитися, якщо їсти в спокійному темпі"
+array,top_loader_tips,43,Не стресуйте через дані. Зрозумійте їх і спокійно покращуйте
+array,top_loader_tips,44,Невеликі зміни в харчуванні з часом дають значні покращення
+array,top_loader_tips,45,Покращення здоров’я потребує часу. Розслабтеся й продовжуйте
+array,top_loader_tips,46,"Старіння можна сповільнити, якщо діяти послідовно"
+array,top_loader_tips,47,"Контроль глюкози не є єдиним показником здоров’я, але це ефективний спосіб почати свій шлях"
+array,top_loader_tips,48,Високий метаболічний показник разом із дефіцитом калорій добре допомагає втрачати жир
+array,top_loader_tips,49,Закрити свої макронутрієнти й досягти високого метаболічного показника — хороша ціль
+array,top_loader_tips,50,"Обирайте раціон, якого зможете стабільно дотримуватися щонайменше наступні 5 років"
+array,top_loader_tips,51,Вплив холоду допомагає збільшити кількість бурого й бежевого жиру в організмі
+plural,exo_controls_fastforward_by_amount_description,one,Перемотати вперед на %d секунду
+plural,exo_controls_fastforward_by_amount_description,few,Перемотати вперед на %d секунди
+plural,exo_controls_fastforward_by_amount_description,many,Перемотати вперед на %d секунд
+plural,exo_controls_fastforward_by_amount_description,other,Перемотати вперед на %d секунди
+plural,exo_controls_rewind_by_amount_description,one,Перемотати назад на %d секунду
+plural,exo_controls_rewind_by_amount_description,few,Перемотати назад на %d секунди
+plural,exo_controls_rewind_by_amount_description,many,Перемотати назад на %d секунд
+plural,exo_controls_rewind_by_amount_description,other,Перемотати назад на %d секунди
+plural,food_items_count,one,%d позиція
+plural,food_items_count,few,%d позиції
+plural,food_items_count,many,%d позицій
+plural,food_items_count,other,%d позиції
+plural,mtrl_badge_content_description,one,%d нове сповіщення
+plural,mtrl_badge_content_description,few,%d нові сповіщення
+plural,mtrl_badge_content_description,many,%d нових сповіщень
+plural,mtrl_badge_content_description,other,%d нового сповіщення
+plural,time_difference_short_days,one,%d дн.
+plural,time_difference_short_days,few,%d дн.
+plural,time_difference_short_days,many,%d дн.
+plural,time_difference_short_days,other,%d дн.
+plural,time_difference_short_hours,one,%d год
+plural,time_difference_short_hours,few,%d год
+plural,time_difference_short_hours,many,%d год
+plural,time_difference_short_hours,other,%d год
+plural,time_difference_short_minutes,one,%d хв
+plural,time_difference_short_minutes,few,%d хв
+plural,time_difference_short_minutes,many,%d хв
+plural,time_difference_short_minutes,other,%d хв
+plural,time_difference_words_days,one,%d день
+plural,time_difference_words_days,few,%d дні
+plural,time_difference_words_days,many,%d днів
+plural,time_difference_words_days,other,%d дня
+plural,time_difference_words_hours,one,%d година
+plural,time_difference_words_hours,few,%d години
+plural,time_difference_words_hours,many,%d годин
+plural,time_difference_words_hours,other,%d години
+plural,time_difference_words_minutes,one,%d хвилина
+plural,time_difference_words_minutes,few,%d хвилини
+plural,time_difference_words_minutes,many,%d хвилин
+plural,time_difference_words_minutes,other,%d хвилини

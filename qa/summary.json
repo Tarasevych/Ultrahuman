@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-07-13T07:28:52.139146+00:00",
+  "locale": "uk-UA",
+  "android": {
+    "source_strings": 3597,
+    "translation_strings": 3597,
+    "errors": 0,
+    "warnings": 615,
+    "info": 39,
+    "by_type": [
+      {
+        "type": "glossary_review",
+        "count": 39
+      },
+      {
+        "type": "latin_tokens_review",
+        "count": 397
+      },
+      {
+        "type": "same_as_source",
+        "count": 218
+      }
+    ]
+  },
+  "compose": {
+    "source_strings": 304,
+    "generated_strings": 304,
+    "errors": 0
+  },
+  "android_extra": {
+    "translated_arrays": 4,
+    "translated_array_items": 74,
+    "translated_plurals": 10,
+    "translated_plural_items": 40,
+    "errors": 0
+  },
+  "uk_quality_audit": {
+    "rows_checked": 4015,
+    "errors": 0,
+    "warnings": 0,
+    "by_issue": {}
+  },
+  "context_checks": {
+    "unexpanded_health_abbreviations_HRV_VSR_RHR_CGM_SPO2": 0,
+    "translated_brand_names_Ultrahuman_Cyborg_Jade_AI": 0,
+    "ring_as_jewelry_kabluchka": 0,
+    "broken_motion_values_cubic_bezier_path": 0,
+    "escaped_tag_corruption_terms_privacy_link": 0,
+    "lowercase_bluetooth": 0,
+    "awkward_jade_machine_phrases": 0,
+    "android_quote_artifacts": 0,
+    "app_program_wording_for_ultrahuman_app": 0,
+    "powerplug_as_electrical_socket": 0,
+    "random_initial_machine_artifacts": 0,
+    "translated_android_resource_reference": 0,
+    "libre_without_sensor_explanation": 0,
+    "clear_translated_as_yasno_or_clean_text": 0,
+    "john_doe_literal_or_doe_as_animal": 0,
+    "goal_translated_as_gol": 0,
+    "your_meal_left_in_english": 0,
+    "breathwork_translated_as_breath_work": 0,
+    "ring_left_in_action_or_error_copy": 0,
+    "cast_or_media_mistranslated": 0,
+    "insight_left_as_insait": 0,
+    "session_left_as_sesiya": 0,
+    "app_translated_as_program_where_app_meant": 0,
+    "glp_bad_word_order": 0,
+    "visible_lowercase_action_labels": 0,
+    "score_left_as_otsinka": 0,
+    "broken_ring_case_forms_perstenm": 0,
+    "ring_translated_as_phone_call_in_ring_context": 0,
+    "ring_translated_as_track_dorizhka": 0,
+    "translated_ultrahuman_brand": 0,
+    "broken_hrv_grammar": 0,
+    "ukrainian_quality_audit_errors": 0,
+    "ukrainian_quality_audit_warnings": 0,
+    "compact_label_length_risks": 0,
+    "android_visible_arrays_translated": 4,
+    "android_visible_array_items_translated": 74,
+    "android_plurals_translated": 10,
+    "android_plural_forms_translated": 40,
+    "ukrainian_quality_audit_rows_checked": 4015
+  }
+}

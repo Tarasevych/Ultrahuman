@@ -1,0 +1,16 @@
+{
+  "name": "Ultrahuman Ukrainian Localization",
+  "repository": "https://github.com/Tarasevych/Ultrahuman",
+  "locale": "uk-UA",
+  "generated_at": "2026-07-13T07:28:52.140224+00:00",
+  "public_scope": "target-only Ukrainian localization resources and integration documentation",
+  "coverage": {
+    "android_strings": 3597,
+    "compose_strings": 304,
+    "android_extra_rows": 114,
+    "visible_arrays": 4,
+    "visible_array_items": 74,
+    "plurals": 10,
+    "plural_forms": 40
+  }
+}
