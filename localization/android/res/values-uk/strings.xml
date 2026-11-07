@@ -234,7 +234,7 @@
     <string name="app_bv_payment_failed">Не вдалося здійснити платіж.. Спробуйте ще раз</string>
     <string name="app_bv_payment_success">Ваш платіж пройшов успішно</string>
     <string name="app_bv_search_no_biomarkers_found">Біомаркерів не знайдено</string>
-    <string name="app_bv_single_user_booking_alert_message">На даний момент бронювання можна робити лише для одного користувача одночасно. Щоб продовжити, виберіть того самого користувача для всіх пакетів</string>
+    <string name="app_bv_single_user_booking_alert_message">Наразі бронювання можна робити лише для одного користувача одночасно. Щоб продовжити, виберіть того самого користувача для всіх пакетів</string>
     <string name="app_bv_single_user_booking_alert_title">Вибачте за незручності</string>
     <string name="app_bv_try_adjusting_your_search_or_filters">Спробуйте налаштувати пошук або фільтри</string>
     <string name="app_cal">Кал</string>
@@ -646,7 +646,7 @@
     <string name="app_not_connected_to_sensor">Вимкнено від сенсора</string>
     <string name="app_not_enough_data_to_show_results">Недостатньо даних для показу результатів</string>
     <string name="app_not_serviceable">Не обслуговується</string>
-    <string name="app_not_serviceable_at_moment">На даний момент не обслуговується</string>
+    <string name="app_not_serviceable_at_moment">Наразі не обслуговується</string>
     <string name="app_not_set">Не встановлено</string>
     <string name="app_notification_alert_channel_description">Нагадування про майбутні активності</string>
     <string name="app_notification_alert_channel_title">Оповіщення</string>
@@ -2682,7 +2682,7 @@ Cyborg"</string>
     <string name="rhr">ЧСС у спокої</string>
     <string name="ri_detail_widget_desc">Відображає частоту серцевих скорочень і температуру в стані спокою</string>
     <string name="ring">Кільце</string>
-    <string name="ring_air_subtitle">Найзручніший трекер сну у світі</string>
+    <string name="ring_air_subtitle">Найзручніший відстежувач сну у світі</string>
     <string name="ring_air_title">Ring AIR</string>
     <string name="ring_analysing_connected">Аналіз під’єднаного кільця</string>
     <string name="ring_auto_power_saver">Автоматична фонова синхронізація</string>

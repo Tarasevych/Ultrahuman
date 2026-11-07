@@ -1,64 +1,60 @@
-# Ultrahuman Ukrainian Localization
+# Українська локалізація Ultrahuman / Oekraïense lokalisatie voor Ultrahuman
 
-[Українською](README.uk.md)
+**Мова / Taal:** [Українська (Повний огляд)](README.uk.md) | [Nederlands (Volledig overzicht)](LEESMIJ.nl.md)
 
-Independent volunteer Ukrainian localization materials for the Ultrahuman Android app.
+---
 
-This repository is intended to make the contribution public, transparent, easy to inspect, and easy for Ultrahuman engineers to integrate if they choose to add Ukrainian language support in a future release.
+## 🇺🇦 Українською
 
-## What Is Included
+Це незалежне добровольче сховище з матеріалами української локалізації для мобільного застосунку Ultrahuman на платформі Android. Матеріали підготовлено для відкритого перегляду, перевірки якості та зручного впровадження командою розробників Ultrahuman у майбутніх випусках застосунку.
 
-- Android Ukrainian resources for `res/values-uk/`
-- Ukrainian Compose resource file for `com.ultrahuman.algo.resources`
-- Target-only CSV and JSON formats for easier review/import
-- Ukrainian and English integration guides
-- Ukrainian and English content-localization proposal for articles/recommendations
-- QA summary proving current resource coverage and automated language checks
+### Швидка навігація всіма матеріалами
 
-## Browse Without Downloading
+| Тема | Українською (`uk`) | Нідерландською (`nl`) |
+|---|---|---|
+| Головний огляд | [README.uk.md](README.uk.md) | [LEESMIJ.nl.md](LEESMIJ.nl.md) |
+| Огляд розділу документації | [docs/uk/ОГЛЯД.md](docs/uk/ОГЛЯД.md) | [docs/nl/OVERZICHT.md](docs/nl/OVERZICHT.md) |
+| Покажчик пакета | [docs/uk/покажчик-пакета.md](docs/uk/покажчик-пакета.md) | [docs/nl/pakket-index.md](docs/nl/pakket-index.md) |
+| Посібник інтеграції | [docs/uk/посібник-інтеграції.md](docs/uk/посібник-інтеграції.md) | [docs/nl/integratiegids.md](docs/nl/integratiegids.md) |
+| Локалізація вмісту (статей і порад) | [docs/uk/локалізація-вмісту.md](docs/uk/локалізація-вмісту.md) | [docs/nl/inhoud-lokalisatie.md](docs/nl/inhoud-lokalisatie.md) |
+| Підсумок перевірки якості | [docs/uk/підсумок-перевірки-якості.md](docs/uk/підсумок-перевірки-якості.md) | [docs/nl/kwaliteitscontrole-samenvatting.md](docs/nl/kwaliteitscontrole-samenvatting.md) |
+| Звернення до команди Ultrahuman | [docs/uk/звернення-до-команди.md](docs/uk/звернення-до-команди.md) | [docs/nl/contactbericht.md](docs/nl/contactbericht.md) |
+| Словник термінів | [СЛОВНИК-ТЕРМІНІВ.md](СЛОВНИК-ТЕРМІНІВ.md) | [WOORDENLIJST.nl.md](WOORDENLIJST.nl.md) |
+| Умови використання (ліцензія) | [LICENSE.md](LICENSE.md) | [LICENSE.md](LICENSE.md) |
 
-- [Package Index](docs/en/package-index.md)
-- [Android XML resources](localization/android/res/values-uk/)
-- [Compose resources](localization/composeResources/com.ultrahuman.algo.resources/values-uk/)
-- [CSV target-only exports](formats/csv/)
-- [JSON target-only exports](formats/json/)
-- [QA summary](qa/summary.json)
+### Основні файли для інтеграції
 
-## What Is Not Included
+- [Рядкові ресурси Android (`strings.xml`)](localization/android/res/values-uk/strings.xml)
+- [Масиви рядків Android (`arrays.xml`)](localization/android/res/values-uk/arrays.xml)
+- [Форми множини Android (`plurals.xml`)](localization/android/res/values-uk/plurals.xml)
+- [Конфігурація мовних локалей (`locales_config.xml`)](localization/android/res/xml/locales_config.xml)
+- [Ресурси графічного середовища Compose (`strings.commonMain.cvr`)](localization/composeResources/com.ultrahuman.algo.resources/values-uk/strings.commonMain.cvr)
+- [Табличні вивантаження CSV](formats/csv/) | [Структуровані вивантаження JSON](formats/json/) | [Звіт перевірки (`qa/summary.json`)](qa/summary.json)
 
-- No APK files
-- No extracted proprietary binaries
-- No work logs or debugging artifacts
-- No full English source-string workbook in the public repository
+---
 
-The public formats intentionally avoid republishing the app's full English resource text. Resource keys and Ukrainian target text are included so the official Ultrahuman team can map these materials to their source project.
+## 🇳🇱 In het Nederlands
 
-## Primary Integration Files
+Dit is een onafhankelijke vrijwillige opslagplaats met Oekraïense lokalisatiematerialen voor de Ultrahuman-toepassing op Android. De materialen zijn openbaar en inzichtelijk opgesteld zodat ontwikkelaars van Ultrahuman de vertaling eenvoudig kunnen beoordelen en opnemen in een toekomstige uitgave.
 
-```text
-localization/android/res/values-uk/strings.xml
-localization/android/res/values-uk/arrays.xml
-localization/android/res/values-uk/plurals.xml
-localization/android/res/xml/locales_config.xml
-localization/composeResources/com.ultrahuman.algo.resources/values-uk/strings.commonMain.cvr
-```
+### Overzicht van alle documenten
 
-## Documentation
+| Onderwerp | Oekraïens (`uk`) | Nederlands (`nl`) |
+|---|---|---|
+| Volledige beschrijving | [README.uk.md](README.uk.md) | [LEESMIJ.nl.md](LEESMIJ.nl.md) |
+| Overzicht van de documentatie | [docs/uk/ОГЛЯД.md](docs/uk/ОГЛЯД.md) | [docs/nl/OVERZICHT.md](docs/nl/OVERZICHT.md) |
+| Pakket-index | [docs/uk/покажчик-пакета.md](docs/uk/покажчик-пакета.md) | [docs/nl/pakket-index.md](docs/nl/pakket-index.md) |
+| Integratiegids | [docs/uk/посібник-інтеграції.md](docs/uk/посібник-інтеграції.md) | [docs/nl/integratiegids.md](docs/nl/integratiegids.md) |
+| Lokalisatie van inhoud | [docs/uk/локалізація-вмісту.md](docs/uk/локалізація-вмісту.md) | [docs/nl/inhoud-lokalisatie.md](docs/nl/inhoud-lokalisatie.md) |
+| Samenvatting van de kwaliteitscontrole | [docs/uk/підсумок-перевірки-якості.md](docs/uk/підсумок-перевірки-якості.md) | [docs/nl/kwaliteitscontrole-samenvatting.md](docs/nl/kwaliteitscontrole-samenvatting.md) |
+| Contactbericht aan het team | [docs/uk/звернення-до-команди.md](docs/uk/звернення-до-команди.md) | [docs/nl/contactbericht.md](docs/nl/contactbericht.md) |
+| Woordenlijst | [СЛОВНИК-ТЕРМІНІВ.md](СЛОВНИК-ТЕРМІНІВ.md) | [WOORDENLIJST.nl.md](WOORDENLIJST.nl.md) |
+| Licentievoorwaarden | [LICENSE.md](LICENSE.md) | [LICENSE.md](LICENSE.md) |
 
-- [Integration Guide](docs/en/integration-guide.md)
-- [Content Localization Proposal](docs/en/content-localization.md)
-- [QA Summary](docs/en/qa-summary.md)
-- [Volunteer Outreach Text](docs/en/outreach.md)
-- [Ukrainian documentation](docs/uk/README.md)
+### Kerncijfers van de dekking
 
-## Coverage
-
-- 3,597 Android string resources
-- 4 visible Android arrays / 74 array items
-- 10 Android plural resources / 40 Ukrainian plural forms
-- 304 Compose resource strings
-- 4,015 rows checked by Ukrainian quality audit: 0 errors, 0 warnings
-
-## Status
-
-This is not an official Ultrahuman repository. It is a volunteer contribution prepared by a Ukrainian-speaking Ultrahuman user for official review and possible integration.
+- **3.597** vertaalde Android-tekstreeksen
+- **4** zichtbare Android-tekstlijsten (**74** lijstonderdelen)
+- **10** Android-meervoudsreeksen (**40** Oekraïense meervoudsvormen)
+- **304** Compose-tekstreeksen
+- **4.015** gecontroleerde rijen tijdens de taalkwaliteitscontrole: **0 fouten**, **0 waarschuwingen**
