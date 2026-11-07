@@ -1,6 +1,6 @@
 # Умови використання / Licentievoorwaarden
 
-**Мова / Taal:** [Український огляд](README.uk.md) | [Nederlands overzicht](LEESMIJ.nl.md) | [На головну / Hoofdpagina](README.md)
+**Мова:** [Український огляд](ОГЛЯД.uk.md) | [Nederlands overzicht](LEESMIJ.nl.md) | [На головну / Hoofdpagina](README.md)
 
 ## 🇺🇦 Українською
 

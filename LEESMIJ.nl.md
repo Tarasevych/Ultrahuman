@@ -1,6 +1,6 @@
 # Oekraïense lokalisatie voor Ultrahuman
 
-**Taal:** Nederlands | [Українська (Oekraïens)](README.uk.md) | [Tweetalig overzicht (README.md)](README.md)
+**Taal:** Nederlands | [Українська (Oekraïens)](ОГЛЯД.uk.md) | [Tweetalig overzicht (README.md)](README.md)
 
 Dit zijn onafhankelijke, vrijwillig vervaardigde materialen voor de Oekraïense lokalisatie van de Ultrahuman-toepassing op Android.
 

@@ -1,6 +1,6 @@
 # Українська локалізація Ultrahuman / Oekraïense lokalisatie voor Ultrahuman
 
-**Мова / Taal:** [Українська (Повний огляд)](README.uk.md) | [Nederlands (Volledig overzicht)](LEESMIJ.nl.md)
+**Мова:** [Українська (Повний огляд)](ОГЛЯД.uk.md) | [Nederlands (Volledig overzicht)](LEESMIJ.nl.md)
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Тема | Українською (`uk`) | Нідерландською (`nl`) |
 |---|---|---|
-| Головний огляд | [README.uk.md](README.uk.md) | [LEESMIJ.nl.md](LEESMIJ.nl.md) |
+| Головний огляд | [ОГЛЯД.uk.md](ОГЛЯД.uk.md) | [LEESMIJ.nl.md](LEESMIJ.nl.md) |
 | Огляд розділу документації | [docs/uk/ОГЛЯД.md](docs/uk/ОГЛЯД.md) | [docs/nl/OVERZICHT.md](docs/nl/OVERZICHT.md) |
 | Покажчик пакета | [docs/uk/покажчик-пакета.md](docs/uk/покажчик-пакета.md) | [docs/nl/pakket-index.md](docs/nl/pakket-index.md) |
 | Посібник інтеграції | [docs/uk/посібник-інтеграції.md](docs/uk/посібник-інтеграції.md) | [docs/nl/integratiegids.md](docs/nl/integratiegids.md) |
@@ -41,7 +41,7 @@ Dit is een onafhankelijke vrijwillige opslagplaats met Oekraïense lokalisatiema
 
 | Onderwerp | Oekraïens (`uk`) | Nederlands (`nl`) |
 |---|---|---|
-| Volledige beschrijving | [README.uk.md](README.uk.md) | [LEESMIJ.nl.md](LEESMIJ.nl.md) |
+| Volledige beschrijving | [ОГЛЯД.uk.md](ОГЛЯД.uk.md) | [LEESMIJ.nl.md](LEESMIJ.nl.md) |
 | Overzicht van de documentatie | [docs/uk/ОГЛЯД.md](docs/uk/ОГЛЯД.md) | [docs/nl/OVERZICHT.md](docs/nl/OVERZICHT.md) |
 | Pakket-index | [docs/uk/покажчик-пакета.md](docs/uk/покажчик-пакета.md) | [docs/nl/pakket-index.md](docs/nl/pakket-index.md) |
 | Integratiegids | [docs/uk/посібник-інтеграції.md](docs/uk/посібник-інтеграції.md) | [docs/nl/integratiegids.md](docs/nl/integratiegids.md) |
